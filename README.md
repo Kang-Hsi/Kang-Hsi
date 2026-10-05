@@ -1,7 +1,6 @@
 # Hey, I'm Leopold 👋
 
-🎓 **BSc in Computer Science @ EPFL**  
-🔐 **Future MSc in Cybersecurity @ EPFL & ETHZ**
+** MSc in Cybersecurity @ EPFL & ETHZ**
 
 Welcome to my GitHub — a place where I build, learn, experiment, and keep exploring new ideas.
 
@@ -16,7 +15,6 @@ Welcome to my GitHub — a place where I build, learn, experiment, and keep expl
 
 ```bash
 > study --cs @EPFL
-> prepare --cybersecurity @EPFL @ETHZ
 > build --projects
 > learn --always
 ```
